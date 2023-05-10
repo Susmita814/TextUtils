@@ -1,2 +1,2 @@
-# TextUtils
-I developed this TextUtils website using react framework to manupulate texts/words.
+# OnlineStore
+I developed this OnlineStore website using react framework to sale constraction products online.
